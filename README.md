@@ -10,11 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></p>
-<img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg" alt="zig" width="40" height="40"/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-man&show_icons=true&locale=en&layout=compact" alt="data-man" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-man&show_icons=true&locale=en" alt="data-man" /></p>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+<img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg" alt="zig" width="40" height="40"/> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=data-man&langs_count=10" alt="data-man" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-man&" alt="data-man" /></p>
