@@ -12,6 +12,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
 <img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg" alt="zig" width="40" height="40"/> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-man&langs_count=10" alt="data-man" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-man&langs_count=10" alt="data-man" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-man&" alt="data-man" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-man&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-man&langs_count=10" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-man&" /></p>
